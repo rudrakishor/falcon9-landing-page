@@ -1,0 +1,54 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    color: #fff;
+    background-color: #0b0c0f;
+}
+
+header {
+    background-image: url('falcon9.jpeg');
+    background-size: cover;
+    text-align: center;
+    padding: 100px 20px;
+}
+
+.hero {
+    background-color: rgba(0, 0, 0, 0.5);
+    padding: 50px 20px;
+}
+
+h1 {
+    font-size: 2.5em;
+}
+
+h2 {
+    text-align: center;
+    margin: 40px 0;
+}
+
+.cta {
+    background-color: #e71d32;
+    color: white;
+    padding: 15px 30px;
+    text-decoration: none;
+    border-radius: 5px;
+}
+
+.section {
+    padding: 20px;
+}
+
+.feature {
+    background-color: #1c1f22;
+    margin: 20px auto;
+    padding: 20px;
+    border-radius: 5px;
+    max-width: 600px;
+}
+
+footer {
+    text-align: center;
+    padding: 20px;
+    background-color: #1c1f22;
+}
